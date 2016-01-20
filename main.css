@@ -1,0 +1,38 @@
+h1 {
+	margin: 20px;
+	font-family: Courier;
+	position: relative;
+}
+ hr {
+ 	width: 50px;
+ 	height: 2px;
+ 	background: black;
+ 	margin-left: 20px;
+ }
+
+#fila1 	{
+	
+	width: 800px;
+	height: 250px;
+
+}
+.uno {
+	  width: 210px;
+	  height: 210px;
+	  margin: 20px;
+	  display: inline-block; 
+	  position: relative; 
+}
+
+p	{	position: absolute;
+		top: 170px;
+		left: 30px;
+		color: white;
+		font-family: Courier;
+
+		
+}
+ 
+img {
+	position: absolute;
+}
